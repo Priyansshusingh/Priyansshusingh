@@ -38,6 +38,8 @@ I'm interested in Embedded Systems, Robotics, and practical electronics. I enjoy
 - PCB Design
 - Git & GitHub
 
+## 🚀 Projects
+
 ### 🖥️ ESP32 OLED Display Projects
 
 Small embedded projects using ESP32 and OLED displays for text display, animations, and basic user interfaces.
