@@ -29,3 +29,11 @@ I enjoy building hardware projects with microcontrollers, sensors, communication
 - Robot control systems
 - Servo-based mechanisms
 - Embedded hardware integration
+
+## 📚 Currently Learning
+
+- STM32 & STM32CubeIDE
+- Embedded C & Microcontroller Programming
+- RTOS / FreeRTOS
+- PCB Design
+- Git & GitHub
