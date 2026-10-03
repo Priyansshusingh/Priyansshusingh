@@ -1,8 +1,8 @@
 # Hi, I'm Priyanshu Singh 👋
 
-I'm a 2nd-year Electronics and Communication Engineering (ECE) student interested in Embedded Systems, Robotics, and practical electronics.
+I'm a 2nd-year Electronics and Communication Engineering (ECE) student at Galgotias College of Engineering and Technology.
 
-I enjoy building hardware projects with microcontrollers, sensors, communication modules, and AI-assisted systems.
+I'm interested in Embedded Systems, Robotics, and practical electronics. I enjoy building hardware projects with microcontrollers, sensors, communication modules, and AI-assisted systems.
 
 ## 🛠️ Skills & Technologies
 
