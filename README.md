@@ -40,7 +40,7 @@ I'm interested in Embedded Systems, Robotics, and practical electronics. I enjoy
 
 ## 🚀 Projects
 
-### 🖥️ ESP32 OLED Display Projects
+### 🖥️ [ESP32 OLED Display Projects](https://github.com/Priyansshusingh/esp32-oled-display-projects)
 
 Small embedded projects using ESP32 and OLED displays for text display, animations, and basic user interfaces.
 
