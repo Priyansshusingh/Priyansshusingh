@@ -37,3 +37,18 @@ I'm interested in Embedded Systems, Robotics, and practical electronics. I enjoy
 - RTOS / FreeRTOS
 - PCB Design
 - Git & GitHub
+
+### 🖥️ ESP32 OLED Display Projects
+
+Small embedded projects using ESP32 and OLED displays for text display, animations, and basic user interfaces.
+
+**Hardware:**
+- ESP32
+- OLED Display (128×32 / 128×64)
+- I2C
+
+**Technologies:**
+- C / C++
+- Arduino IDE
+- I2C
+- Embedded Systems
